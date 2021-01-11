@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background-image:linear-gradient(to bottom right, red, yellow);
+background-repeat: no-repeat;
+}
+img{
+height: 150px;
+}
+#n{
+  height:80px
+}
+
+p{
+  font-size:25px;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    float: right;
+ top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}     
+h1{
+    font-family: 'Almendra SC', cursive;
+}
+.links:hover{
+    background-color: lawngreen;
+}   
+        
